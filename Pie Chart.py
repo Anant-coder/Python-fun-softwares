@@ -1,7 +1,7 @@
 import turtle
 import time
 import random
-# This program is of making pie chart with the help of inbuilt turtle module, It is one of my first programs in python
+# This program is of making pie chart with the help of inbuilt turtle library in python package, It is one of my first programs in python
 # Author : Anant Mishra
 # Made in October 2019
 t = turtle.Turtle()
