@@ -4,6 +4,7 @@ import random
 # This program is of making pie chart with the help of inbuilt turtle library in python package, It is one of my first programs in python
 # Author : Anant Mishra
 # Made in October 2019
+print("Reconfiguration")
 t = turtle.Turtle()
 p = turtle.Turtle()
 t.speed(0)
@@ -33,6 +34,8 @@ def home():
     pie_chart()
 
 # Taking variables :
+
+
 def pie_chart():
     src.clearscreen()
     src.title("Pie Chart")
